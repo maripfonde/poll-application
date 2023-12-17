@@ -42,3 +42,7 @@ Now you can run the server
 ```bash
 $ python manage.py runserver
 ```
+
+## Running tests and debugging
+$ python manage.py test polls
+```
