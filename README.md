@@ -13,6 +13,4 @@ Cast your votes on the questions that interest you.
 
 ### Admin Site:
 
-Manage polls effortlessly by adding new ones.
-Modify existing polls to keep the content fresh.
-Remove outdated polls to maintain relevance.
+An admin site that lets you add, change, and delete polls.
