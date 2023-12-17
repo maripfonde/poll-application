@@ -25,7 +25,7 @@ $ python3 -m venv poll-env
 $ source poll-env/bin/activate
 
 Windows users
->poll-env\Scripts\activate
+> poll-env\Scripts\activate
 ```
 
 Install project dependencies 
