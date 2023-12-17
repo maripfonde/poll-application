@@ -32,3 +32,13 @@ Install project dependencies
 ```bash
 $ pip install -r requirements.txt
 ```
+
+Then aplly the migrations 
+```bash
+$ python manage.py runserver
+```
+
+Now you can run the server
+```bash
+$ python manage.py runserver
+```
