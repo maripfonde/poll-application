@@ -44,5 +44,6 @@ $ python manage.py runserver
 ```
 
 ## Running tests and debugging
+```bash
 $ python manage.py test polls
 ```
