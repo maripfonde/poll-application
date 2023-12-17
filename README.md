@@ -16,7 +16,7 @@ First clone the repository from Github and cd into poll-application
 
 ```bash
 $ git clone https://github.com/maripfonde/poll-application.git
-$ cd django-polls
+$ cd poll-application
 ```
 
 Activate the virtual environment for the project
