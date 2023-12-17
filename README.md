@@ -35,7 +35,7 @@ $ pip install -r requirements.txt
 
 Then aplly the migrations 
 ```bash
-$ python manage.py runserver
+$ python manage.py migrate
 ```
 
 Now you can run the server
