@@ -19,7 +19,7 @@ $ git clone https://github.com/maripfonde/poll-application.git
 $ cd django-polls
 ```
 
-Activate the virtualenv for the project
+Activate the virtual environment for the project
 ```bash
 $ python3 -m venv poll-env
 $ source poll-env/bin/activate
