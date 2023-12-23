@@ -9,7 +9,7 @@ This is a simple Django Polls application enabling users to participate in votin
 These are the libraries and frameworks used to build this chat application.
 1.Django == 4.2.7
 
-[![Screenshot-70.png](https://i.postimg.cc/jqWhGBq1/Screenshot-70.png)](https://postimg.cc/fkNXd297)
+[![admin.png](https://i.postimg.cc/xT3L4yGP/admin.png)](https://postimg.cc/Yhj44Fs4)
 
 ## Getting started with project
 First clone the repository from Github and cd into poll-application
