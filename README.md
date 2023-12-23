@@ -8,8 +8,7 @@ This is a simple Django Polls application enabling users to participate in votin
 
 These are the libraries and frameworks used to build this chat application.
 1.Django == 4.2.7
-
-## username: Admin Password: Admin123
+username: Admin Password: Admin123
 [![admin.png](https://i.postimg.cc/xT3L4yGP/admin.png)](https://postimg.cc/Yhj44Fs4)
 
 ## Getting started with project
